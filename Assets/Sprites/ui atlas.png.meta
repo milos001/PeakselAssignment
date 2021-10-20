@@ -1,7 +1,82 @@
 fileFormatVersion: 2
-guid: 35e02263a05f2ed3eb0f52279e17c7f7
+guid: c6ca6ea2ba012dbfe8ef72c4ee099ec1
 TextureImporter:
   internalIDToNameTable:
+  - first:
+      213: 5038393065952720449
+    second: ui atlas_0
+  - first:
+      213: -3433031344315689024
+    second: ui atlas_1
+  - first:
+      213: 2375990996805325438
+    second: ui atlas_2
+  - first:
+      213: -7583093683844475843
+    second: ui atlas_3
+  - first:
+      213: 1898323470269135912
+    second: ui atlas_4
+  - first:
+      213: 2752117450504776690
+    second: ui atlas_5
+  - first:
+      213: -7105536563293864786
+    second: ui atlas_6
+  - first:
+      213: -962937272680067203
+    second: ui atlas_7
+  - first:
+      213: -2208231475922098347
+    second: ui atlas_8
+  - first:
+      213: 6377933722430442136
+    second: ui atlas_9
+  - first:
+      213: 693126740613572062
+    second: ui atlas_10
+  - first:
+      213: 1209909158780437614
+    second: ui atlas_11
+  - first:
+      213: -4806542591375019496
+    second: ui atlas_12
+  - first:
+      213: -8887467850008223407
+    second: ui atlas_13
+  - first:
+      213: 5548222703932579545
+    second: ui atlas_14
+  - first:
+      213: -752201726153698497
+    second: ui atlas_15
+  - first:
+      213: 3936662871649568436
+    second: ui atlas_16
+  - first:
+      213: -9179867253785100325
+    second: ui atlas_17
+  - first:
+      213: -1100490107490735071
+    second: ui atlas_18
+  - first:
+      213: 162713896930830959
+    second: ui atlas_19
+  - first:
+      213: 6223169405696597202
+    second: ui atlas_20
+  - first:
+      213: -7783800542391435396
+    second: ui atlas_21
+  - first:
+      213: 446620857251533987
+    second: ui atlas_22
+  - first:
+      213: 486799632410420863
+    second: ui atlas_23
+  - first:
+      213: 3546603821001784727
+    second: ui atlas_24
   - first:
       213: -3771017059851545069
     second: arrow command
@@ -53,6 +128,9 @@ TextureImporter:
   - first:
       213: 2931661813698972944
     second: pause button background.9
+  - first:
+      213: 484013503347905351
+    second: pause button
   - first:
       213: 3445765809490184793
     second: pause continue button
@@ -168,8 +246,8 @@ TextureImporter:
       name: arrow command
       rect:
         serializedVersion: 2
-        x: 12
-        y: 145
+        x: 740
+        y: 539
         width: 147
         height: 149
       alignment: 0
@@ -210,8 +288,8 @@ TextureImporter:
       name: bonus background
       rect:
         serializedVersion: 2
-        x: 607
-        y: 298
+        x: 668
+        y: 894
         width: 322
         height: 130
       alignment: 0
@@ -231,10 +309,10 @@ TextureImporter:
       name: chest collector
       rect:
         serializedVersion: 2
-        x: 621
-        y: 432
+        x: 457
+        y: 165
         width: 361
-        height: 188
+        height: 195
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,8 +330,8 @@ TextureImporter:
       name: dialog dimmer background.9
       rect:
         serializedVersion: 2
-        x: 12
-        y: 1014
+        x: 554
+        y: 524
         width: 10
         height: 10
       alignment: 0
@@ -273,8 +351,8 @@ TextureImporter:
       name: dialog quit button
       rect:
         serializedVersion: 2
-        x: 352
-        y: 39
+        x: 12
+        y: 216
         width: 441
         height: 144
       alignment: 0
@@ -294,8 +372,8 @@ TextureImporter:
       name: dialog retry button
       rect:
         serializedVersion: 2
-        x: 163
-        y: 187
+        x: 12
+        y: 68
         width: 440
         height: 144
       alignment: 0
@@ -315,8 +393,8 @@ TextureImporter:
       name: element book
       rect:
         serializedVersion: 2
-        x: 797
-        y: 165
+        x: 891
+        y: 559
         width: 133
         height: 129
       alignment: 0
@@ -336,8 +414,8 @@ TextureImporter:
       name: element boxing glove
       rect:
         serializedVersion: 2
-        x: 65
-        y: 5
+        x: 714
+        y: 399
         width: 137
         height: 136
       alignment: 0
@@ -357,8 +435,8 @@ TextureImporter:
       name: element circle background
       rect:
         serializedVersion: 2
-        x: 206
-        y: 36
+        x: 568
+        y: 429
         width: 142
         height: 147
       alignment: 0
@@ -378,8 +456,8 @@ TextureImporter:
       name: element coin
       rect:
         serializedVersion: 2
-        x: 893
-        y: 905
+        x: 626
+        y: 42
         width: 115
         height: 119
       alignment: 0
@@ -399,8 +477,8 @@ TextureImporter:
       name: element diamond
       rect:
         serializedVersion: 2
-        x: 893
-        y: 773
+        x: 855
+        y: 407
         width: 113
         height: 128
       alignment: 0
@@ -420,8 +498,8 @@ TextureImporter:
       name: element energy
       rect:
         serializedVersion: 2
-        x: 893
-        y: 644
+        x: 912
+        y: 765
         width: 99
         height: 125
       alignment: 0
@@ -441,8 +519,8 @@ TextureImporter:
       name: gameplay header background.9
       rect:
         serializedVersion: 2
-        x: 12
-        y: 828
+        x: 822
+        y: 213
         width: 8
         height: 182
       alignment: 0
@@ -462,8 +540,8 @@ TextureImporter:
       name: high score title decoration
       rect:
         serializedVersion: 2
-        x: 65
-        y: 753
+        x: 0
+        y: 39
         width: 622
         height: 25
       alignment: 0
@@ -483,8 +561,8 @@ TextureImporter:
       name: logo
       rect:
         serializedVersion: 2
-        x: 65
-        y: 509
+        x: 12
+        y: 538
         width: 552
         height: 240
       alignment: 0
@@ -504,7 +582,7 @@ TextureImporter:
       name: pause button background.9
       rect:
         serializedVersion: 2
-        x: 26
+        x: 1015
         y: 713
         width: 9
         height: 311
@@ -522,11 +600,32 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: pause button
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 692
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7435b8587bf87b600800000000000000
+      internalID: 484013503347905351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: pause continue button
       rect:
         serializedVersion: 2
-        x: 721
-        y: 826
+        x: 568
+        y: 580
         width: 168
         height: 198
       alignment: 0
@@ -546,8 +645,8 @@ TextureImporter:
       name: pause quit button
       rect:
         serializedVersion: 2
-        x: 721
-        y: 624
+        x: 740
+        y: 692
         width: 168
         height: 198
       alignment: 0
@@ -567,7 +666,7 @@ TextureImporter:
       name: play button
       rect:
         serializedVersion: 2
-        x: 65
+        x: 12
         y: 782
         width: 652
         height: 242
@@ -588,8 +687,8 @@ TextureImporter:
       name: score background
       rect:
         serializedVersion: 2
-        x: 65
-        y: 335
+        x: 12
+        y: 364
         width: 538
         height: 170
       alignment: 0
@@ -609,8 +708,8 @@ TextureImporter:
       name: timer icon
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4
+        x: 668
+        y: 820
         width: 61
         height: 70
       alignment: 0
