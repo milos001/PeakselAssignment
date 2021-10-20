@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 88520005e849b695f92fec9092ca7aa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 988271181015253292
+    second: Girl_Polished_For_Spine_0
+  - first:
+      213: -5359639102533166210
+    second: Girl_Polished_For_Spine_1
+  - first:
+      213: -5374526940897959250
+    second: Girl_Polished_For_Spine_2
+  - first:
+      213: -3546283639474980597
+    second: Girl_Polished_For_Spine_3
+  - first:
+      213: -647174983851053361
+    second: Girl_Polished_For_Spine_4
+  - first:
+      213: 1935143674179791321
+    second: Girl_Polished_For_Spine_5
+  - first:
+      213: -4250478218232239773
+    second: Girl_Polished_For_Spine_6
+  - first:
+      213: 5867345969018869688
+    second: Girl_Polished_For_Spine_7
+  - first:
+      213: 8316958826107094557
+    second: Girl_Polished_For_Spine_8
+  - first:
+      213: 5293353042579098438
+    second: Girl_Polished_For_Spine_9
+  - first:
+      213: 3857454296714896863
+    second: Girl_Polished_For_Spine_10
+  - first:
+      213: -4955644826995324816
+    second: Girl_Polished_For_Spine_11
+  - first:
+      213: 2565476430039278478
+    second: Girl_Polished_For_Spine_12
+  - first:
+      213: -8330308899385328259
+    second: Girl_Polished_For_Spine_13
+  - first:
+      213: -803404498926730979
+    second: Girl_Polished_For_Spine_14
+  - first:
+      213: 3986559841509283701
+    second: Girl_Polished_For_Spine_15
+  - first:
+      213: -3878321757785705182
+    second: Girl_Polished_For_Spine_16
+  - first:
+      213: 4262676110116635032
+    second: Girl_Polished_For_Spine_17
+  - first:
+      213: -1596947334272796243
+    second: Girl_Polished_For_Spine_18
+  - first:
+      213: -8145755244333195267
+    second: Girl_Polished_For_Spine_19
+  - first:
+      213: -1089075490165560319
+    second: Girl_Polished_For_Spine_20
+  - first:
+      213: -4760557287973903217
+    second: Girl_Polished_For_Spine_21
+  - first:
+      213: -4823845478589999056
+    second: Girl_Polished_For_Spine_22
+  - first:
+      213: 3214438659087653056
+    second: Girl_Polished_For_Spine_23
+  - first:
+      213: -4625314930618001404
+    second: Girl_Polished_For_Spine_24
+  - first:
+      213: -7763777315876066989
+    second: Girl_Polished_For_Spine_25
+  - first:
+      213: -2962508080147939341
+    second: Girl_Polished_For_Spine_26
+  - first:
+      213: 2664497105679605205
+    second: Girl_Polished_For_Spine_27
+  - first:
+      213: 2405803177125417756
+    second: Girl_Polished_For_Spine_28
+  - first:
+      213: -1488566997170128580
+    second: Arm_L_1
+  - first:
+      213: 268293700431729236
+    second: Arm_L_2
+  - first:
+      213: -8758341436656214213
+    second: Arm_R_1
+  - first:
+      213: -2055881247096836263
+    second: Arm_R_2
+  - first:
+      213: -5673618120071735642
+    second: Body
+  - first:
+      213: -3529786205638835296
+    second: Collar
+  - first:
+      213: 4089052027282279146
+    second: Collar_Cover
+  - first:
+      213: 4041264543391295679
+    second: Eye_1
+  - first:
+      213: 5399526322897337148
+    second: Eye_2
+  - first:
+      213: 942724607862568219
+    second: Eye_L_Closed
+  - first:
+      213: -6873833467226348395
+    second: Eye_R_Closed
+  - first:
+      213: 6097986083501234383
+    second: Eye_Shut_1
+  - first:
+      213: 730599771384536546
+    second: Eye_Shut_2
+  - first:
+      213: -7670438834444436177
+    second: Eyebrow
+  - first:
+      213: 8918266014200804159
+    second: Hand_L
+  - first:
+      213: 1864099957758329587
+    second: Hand_R
+  - first:
+      213: 4134470982481670237
+    second: Head
+  - first:
+      213: -3337633190303562721
+    second: Mouth
+  - first:
+      213: 5312185413237325137
+    second: Mouth_2
+  - first:
+      213: 7437712810571523569
+    second: Neck
+  - first:
+      213: 3021043109883150317
+    second: Pony_Hair
+  - first:
+      213: 387989223811382310
+    second: Thumbs_Up_L
+  - first:
+      213: 7921908226124786549
+    second: Thumbs_Up_R
+  - first:
+      213: -8362412369213435869
+    second: White_Clap
+  - first:
+      213: 4832622740937039482
+    second: "\x7FHead_Back"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 0
+    mipBias: -0.5
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 904
+        width: 511
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c218b2e276b07bd00800000000000000
+      internalID: 988271181015253292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 895
+        width: 150
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b973102acbe95b0800000000000000
+      internalID: -5359639102533166210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1219
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2a2040938d965b0800000000000000
+      internalID: -5374526940897959250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_3
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 651
+        width: 272
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b097054a1d119cec0800000000000000
+      internalID: -3546283639474980597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_4
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1104
+        width: 259
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee904f7c5c407f0800000000000000
+      internalID: -647174983851053361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_5
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1103
+        width: 223
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a4d83be20bda10800000000000000
+      internalID: 1935143674179791321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1195
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3696bbc94944305c0800000000000000
+      internalID: -4250478218232239773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 894
+        width: 297
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b790b182100d6150800000000000000
+      internalID: 5867345969018869688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 907
+        width: 193
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16c9a9bcf5cb6370800000000000000
+      internalID: 8316958826107094557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 913
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b09adfb84c57940800000000000000
+      internalID: 5293353042579098438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_10
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 689
+        width: 413
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5eef4ce3e688530800000000000000
+      internalID: 3857454296714896863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 485
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07801f539430a3bb0800000000000000
+      internalID: -4955644826995324816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 713
+        width: 309
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83e02c78376a9320800000000000000
+      internalID: 2565476430039278478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_13
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 712
+        width: 131
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dbcde113cc46c80800000000000000
+      internalID: -8330308899385328259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 712
+        width: 95
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1185866ddbb9d4f0800000000000000
+      internalID: -803404498926730979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_15
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 652
+        width: 130
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5779ffcdd0b135730800000000000000
+      internalID: 3986559841509283701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_16
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 689
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225b386d8ee6d2ac0800000000000000
+      internalID: -3878321757785705182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 7
+        width: 490
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891cb086651182b30800000000000000
+      internalID: 4262676110116635032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_18
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 287
+        width: 435
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b9a74cd086d9e0800000000000000
+      internalID: -1596947334272796243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_19
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 665
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9e3a63c674fe80800000000000000
+      internalID: -8145755244333195267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_20
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 625
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce813ac93d2e0f0800000000000000
+      internalID: -1089075490165560319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 607
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f842b6d7e5a1fedb0800000000000000
+      internalID: -4760557287973903217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_22
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 456
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038d44558124e0db0800000000000000
+      internalID: -4823845478589999056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2
+        width: 466
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d33bfdeafb9c20800000000000000
+      internalID: 3214438659087653056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_24
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 314
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408143a93949fcfb0800000000000000
+      internalID: -4625314930618001404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_25
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2
+        width: 486
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359a8fb5aa5814490800000000000000
+      internalID: -7763777315876066989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_26
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 252
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffbe8ed89e03e6d0800000000000000
+      internalID: -2962508080147939341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_27
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 134
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd61120023af420800000000000000
+      internalID: 2664497105679605205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl_Polished_For_Spine_28
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3
+        width: 69
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13111c3e31236120800000000000000
+      internalID: 2405803177125417756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_L_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 894
+        width: 551
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39fd4de33c875be0800000000000000
+      internalID: -1488566997170128580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_L_2
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1103
+        width: 223
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45255b5f2bb29b300800000000000000
+      internalID: 268293700431729236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_R_1
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 651
+        width: 272
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f9586fdde147680800000000000000
+      internalID: -8758341436656214213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_R_2
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2
+        width: 466
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe766f5ea0873e0800000000000000
+      internalID: -2055881247096836263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 486
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a697e141624341b0800000000000000
+      internalID: -5673618120071735642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collar
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 894
+        width: 317
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c2d7c52ea30fc0800000000000000
+      internalID: -3529786205638835296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collar_Cover
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 456
+        width: 91
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4042772b3fb830800000000000000
+      internalID: 4089052027282279146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_1
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 252
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82830d0b4751830800000000000000
+      internalID: 4041264543391295679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_2
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 252
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bbaaf2598feea40800000000000000
+      internalID: 5399526322897337148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_L_Closed
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 712
+        width: 131
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15faac390b351d00800000000000000
+      internalID: 942724607862568219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_R_Closed
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 689
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59428c471ec3b90a0800000000000000
+      internalID: -6873833467226348395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_Shut_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 712
+        width: 95
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8dd50d80660a450800000000000000
+      internalID: 6097986083501234383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_Shut_2
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 314
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed5b560f9c932a00800000000000000
+      internalID: 730599771384536546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1219
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df39115802d8590800000000000000
+      internalID: -7670438834444436177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_L
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 906
+        width: 195
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33b0ec50bb04cb70800000000000000
+      internalID: 8918266014200804159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_R
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 712
+        width: 311
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f28100090d9ed910800000000000000
+      internalID: 1864099957758329587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2
+        width: 492
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50faf40477906930800000000000000
+      internalID: 4134470982481670237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2
+        width: 71
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1407650c485ea1d0800000000000000
+      internalID: -3337633190303562721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_2
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 133
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15db509fc7ca8b940800000000000000
+      internalID: 5312185413237325137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neck
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2
+        width: 486
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5ec7ff460183760800000000000000
+      internalID: 7437712810571523569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pony_Hair
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 894
+        width: 161
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff9b7c3b6ece920800000000000000
+      internalID: 3021043109883150317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thumbs_Up_L
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1103
+        width: 261
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf4f5b42a626500800000000000000
+      internalID: 387989223811382310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thumbs_Up_R
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 651
+        width: 132
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba9614f8540fd60800000000000000
+      internalID: 7921908226124786549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_Clap
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 689
+        width: 413
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32053b3914eb2fb80800000000000000
+      internalID: -8362412369213435869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\x7FHead_Back"
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 287
+        width: 435
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ed60f47cce01340800000000000000
+      internalID: 4832622740937039482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
